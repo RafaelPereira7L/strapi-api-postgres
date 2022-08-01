@@ -55,3 +55,12 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+
+### `API url`
+
+[Go to api url](http://localhost:1337/api/pages?populate=deep&pagination[pageSize]=1&sort[0]=id:desc)
+
+```
+http://localhost:1337/api/pages?populate=deep&pagination[pageSize]=1&sort[0]=id:desc
+```
